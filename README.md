@@ -1,8 +1,10 @@
-                                  
-                              ### Missael is an experienced, self-taught senior web developer. 
-                          Connects with empathy with the users of the products to exceed their expectations.
-                 ### He was actively involved in local tech communities to stay on top of the latest developments.
-                         my experience is a VUE, Javascript and Quasar Framework the with datebases MYSQL.
+                               
+Connects with empathy with the users of the products to exceed their expectations.
+
+He was actively involved in local tech communities to stay on top of the latest developments.
+my experience is a VUE, Javascript and Quasar Framework the with datebases MYSQL.   
+                              
+                    
  <div align="center">                        
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
