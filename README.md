@@ -1,7 +1,6 @@
   <div align="center">  
     
 ### Connects with empathy with the users of the products to exceed their expectations.
-
 ### He was actively involved in local tech communities to stay on top of the latest developments.
 </div> 
      
